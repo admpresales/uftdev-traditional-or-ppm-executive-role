@@ -3,7 +3,6 @@ package com.mf;
 import com.hp.lft.report.ReportException;
 import com.hp.lft.report.Reporter;
 import com.hp.lft.report.Status;
-import jdk.vm.ci.code.site.Mark;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
